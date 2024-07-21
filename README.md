@@ -27,10 +27,10 @@
 - *GitHub:* [Analyze-With-Shweta](https://github.com/Analyze-With-Shweta)
 - 😄 **Pronouns: ...**
 - *She/Her*
-- ⚡ Fun fact: ...
-- *In my free time, I enjoy exploring new places, cultures, and cuisines, and I am an amateur drummer..
+- ⚡ **Fun fact: ...**
+- *In my free time, I enjoy exploring new places, cultures, and cuisines, and I am an amateur drummer.*
 
-Thank you for visiting my GitHub profile! Let’s connect and create amazing things together.
+**Thank you for visiting my GitHub profile! Let’s connect and build amazing things together.**
 
 <!---
 Analyze-With-Shweta/Analyze-With-Shweta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
