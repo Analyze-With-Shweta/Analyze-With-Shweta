@@ -1,5 +1,5 @@
-- 👋 Hello, I'm @Analyze-With-Shweta
-- # Welcome to my GitHub profile @Analyze-With-Shweta. I’m Shweta Mangrule, a seasoned Business Analyst with 6.5 years of professional experience.
+- # 👋 Hello, I'm @Analyze-With-Shweta
+- **Welcome to my GitHub profile @Analyze-With-Shweta. I’m Shweta Mangrule, a seasoned Business Analyst with 6.5 years of professional experience.**
 - 🔧 **Specialties**
 - *Software Development Life Cycle (SDLC)*
 - *Agile (Scrum) Methodologies, Waterfall*
