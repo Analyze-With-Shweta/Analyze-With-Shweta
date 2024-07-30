@@ -13,10 +13,10 @@
 - *Product Lifecycle Management*
 - 
 - 👀 **I’m interested in ...**
-- *Emerging technologies and their impact on business processes**
+- *Emerging technologies and their impact on business processes*
 - *Agile transformation and best practices*
 - *Business Analysis Techniques and Tools*
-- BA Documentation & Quality Assurance*
+- *BA Documentation & Quality Assurance*
 - *Stakeholder Engagement and Influence*
 - *Product Backlog Management*
 - *Process optimization and workflow enhancement*
