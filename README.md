@@ -20,11 +20,12 @@
 - 🌱 **I’m currently learning ...**
 - *I am continuously learning new techniques and methodologies to improve my skills as a Business Analyst.*
 - 💞️ **I’m looking to collaborate on ...**
-- *I am open to collaborating on projects and with organizations in a Business Analyst role that involves business analysis, recommending solutions, building solutions, process optimization, and data-driven strategy development. If you have a project or role that could benefit from my expertise, feel free to reach out!*
+- *I am open to collaborating on projects and with organizations in a Business Analyst role that involves business analysis, recommending solutions, building solutions, process optimization, product backlog Management, Stakeholder Engagement and InfluenceStakeholder Engagement and Influence, User-Centric IT Development, Documentation & Quality Assurance, Process Analysis, and data-driven strategy development. If you have a project or role that could benefit from my expertise, feel free to reach out!*
 - 📫 **How to reach me ...**
-- *Email:* shwetamangrule24@gmail.com
+- *Email:* shwetamangrule71@gmail.com
 - *LinkedIn:* [Shweta Mangrule](https://www.linkedin.com/in/smangrule/)
 - *GitHub:* [Analyze-With-Shweta](https://github.com/Analyze-With-Shweta)
+- *Naukri:* Shweta Mangrule
 - 😄 **Pronouns: ...**
 - *She/Her*
 - ⚡ **Fun fact: ...**
